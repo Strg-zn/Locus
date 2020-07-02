@@ -1,5 +1,5 @@
 # Locus
 
-[EyEs-health](https://github.com/Strg-zn/Locus//睑黡.md)
+[EyEs-health](https://Strg-zn.github.io/Locus//睑黡.md)
 
 [Anima]
